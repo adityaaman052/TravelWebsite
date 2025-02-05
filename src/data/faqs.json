@@ -1,0 +1,21 @@
+{
+    "faqs": [
+      {
+        "question": "What is the best time to book a flight?",
+        "answer": "It is recommended to book flights at least 2-3 weeks in advance to get the best deals."
+      },
+      {
+        "question": "How can I change my hotel reservation?",
+        "answer": "You can change your hotel reservation by contacting the hotel directly or through the booking platform."
+      },
+      {
+        "question": "What should I do if my flight is delayed?",
+        "answer": "If your flight is delayed, contact the airline staff for assistance and stay updated on the new departure time."
+      },
+      {
+        "question": "Are car rentals available at the airport?",
+        "answer": "Yes, most airports have car rental services available at their terminals."
+      }
+    ]
+  }
+  

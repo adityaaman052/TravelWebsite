@@ -1,0 +1,25 @@
+{
+    "flights": [
+      "New York (JFK)",
+      "Los Angeles (LAX)",
+      "London (LHR)",
+      "Paris (CDG)",
+      "Tokyo (NRT)",
+      "Dubai (DXB)"
+    ],
+    "hotels": [
+      "The Plaza Hotel - New York",
+      "Marina Bay Sands - Singapore",
+      "Burj Al Arab - Dubai",
+      "Ritz Paris - Paris",
+      "The Venetian - Las Vegas"
+    ],
+    "cars": [
+      "New York City",
+      "Los Angeles",
+      "San Francisco",
+      "Miami",
+      "Chicago"
+    ]
+  }
+  
